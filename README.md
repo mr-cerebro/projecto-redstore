@@ -6,23 +6,25 @@
 
 <div align="center">
 	
-	## Projecto : REDSTORE - LOJA VIRTUAL (E-COMMERCE)
+## Projecto : REDSTORE - LOJA VIRTUAL (E-COMMERCE)
 
 </div>
 
-- 🌱 Atualmente estou estudando **(Javascript, ReactJS e TypeScript*(agendado)*)**;
+- 🌱 Atualmente estou estudando **(Javascript, ReactJS e TypeScript(*agendado*))**;
 - 👯 Estou procurando colaborar no desenvolvimento social e projetos open-source;
 - 🤔 Estou procurando ajuda para muitos projetos, tente entrar em contato comigo!:
   - 💬 Me pergunte sobre qualquer coisa **[Paulo Pessoa](mailto:mrcerebro8@gmail.com)**.
 
 ![image-card](assets/img/image-card.jpg)
 
+![image-card-1](assets/img/image-card-1.jpg) ![image-card-2](assets/img/image-card-2.jpg)
+
 Fui desafiado por uma equipa a criar o frontend de uma Loja Virtual (E-commerce)
 
 ## Objectivo do desafio
 
 Conhecer as minhas skills em desenvolvimento, uma vez que sempre desenvolvi tudo simplesmente por estudo
-Hoje apresento-vos algo que poderá mudar a minha rotina no apreendizado
+Hoje apresento-vos algo que poderá mudar a minha rotina no apreendizado, tanto em desenvolvimento web **(frontend)**, quanto em design **(UX/UI Design)**
 
 ## Dificuldades
 
@@ -38,12 +40,16 @@ Colocar no menu um **Drop-down**, estava listado nas tarefas a fazer, porém nã
 ## O quê que aprendeu
 
 Desenvolver um projecto que poderá dar solução em determinado serviço.
-Tudo sem frameworks nem bibliotecas, apenas as tecnologias: ***HTML***, ***CSS(Flexbox)*** e ***JS***
+Tudo sem frameworks nem bibliotecas, apenas as tecnologias: ***HTML***, ***CSS (Flexbox)*** e ***JS***
 
 
-Visualizar o projeto: [clique aqui](https://mr-cerebro.github.io/projecto-redstore/)
+## Visualizar o projecto
 
-- 📫 Como encontrar-me:
+[projecto-redstore.github.io](https://mr-cerebro.github.io/projecto-redstore/)
+
+
+## Redes Sociais
+
 	- Behance: [Paulo Pessoa](https://www.behance.net/mr-cerebro)
 	- Dribble: [Paulo Pessoa](https://dribbble.com/mr-cerebro)
 	- Facebook: [Paulo Pessoa](https://www.facebook.com/paulo1pessoa)
@@ -63,7 +69,7 @@ Visualizar o projeto: [clique aqui](https://mr-cerebro.github.io/projecto-redsto
 
 </div>
 
-- 🌱 I'm currently studying **(Javascript, ReactJS and TypeScript*(scheduled)*)**;
+- 🌱 I'm currently studying **(Javascript, ReactJS and TypeScript (*scheduled*))**;
 - 👯 I'm looking to collaborate on social development and open-source projects;
 - 🤔 I'm looking for help for many projects, try contacting me!:
   - 💬 Ask me about anything **[Paulo Pessoa](mailto:mrcerebro8@gmail.com)**.
@@ -73,7 +79,7 @@ I was challenged by a team to create the frontend of a Virtual Store (E-commerce
 ## Challenge objective
 
 Knowing my skills in development, since I've always developed everything simply by studying
-Today I present to you something that could change my routine in apprehended
+Today I present to you something that could change my routine in apprehended, both in web development **(frontend)**, and in design **(UX/UI Design)**
 
 ## Difficulties
 
@@ -90,12 +96,16 @@ Putting a **Drop-down** in the menu, it was listed in the tasks to do, but I cou
 ## what you learned
 
 Develop a project that can provide a solution in a given service.
-All without frameworks or libraries, just the technologies: ***HTML***, ***CSS(Flexbox)*** and ***JS***
+All without frameworks or libraries, just the technologies: ***HTML***, ***CSS (Flexbox)*** and ***JS***
 
 
-View the project: [click here](https://mr-cerebro.github.io/projecto-redstore/)
+## View the project
 
-- 📫 How to find me:
+[projecto-redstore.github.io](https://mr-cerebro.github.io/projecto-redstore/)
+
+
+## Social networks
+
 - Behance: [Paulo Pessoa](https://www.behance.net/mr-cerebro)
 - Dribble: [Paulo Pessoa](https://dribbble.com/mr-cerebro)
 - Facebook: [Paulo Pessoa](https://www.facebook.com/paulo1pessoa)
