@@ -19,9 +19,15 @@ Aqui estão algumas idéias sobre mim para você começar:
 
 ![image-card](assets/img/image-card.jpg)
 
-![image-card-1](assets/img/image-card-1.jpg) ![image-card-2](assets/img/image-card-2.jpg)
+![image-card-1](assets/img/image-card-1.jpg)
 
+![image-card-2](assets/img/image-card-2.jpg)
+
+<div align="center">
+	
 Fui desafiado por uma equipa a criar o frontend de uma Loja Virtual (E-commerce)
+
+</div>
 
 ## Objectivo do desafio
 
@@ -52,12 +58,12 @@ Tudo sem frameworks nem bibliotecas, apenas as tecnologias: ***HTML***, ***CSS (
 
 ## Redes Sociais
 
-	- Behance: [Paulo Pessoa](https://www.behance.net/mr-cerebro)
-	- Dribble: [Paulo Pessoa](https://dribbble.com/mr-cerebro)
-	- Facebook: [Paulo Pessoa](https://www.facebook.com/paulo1pessoa)
-  	- Instagram: [Paulo Pessoa](https://www.instagram.com/_mrcerebro/)
-  	- Linkedin: [Paulo Pessoa](https://www.linkedin.com/in/paulo-pessoa-2777841b2/)
-  	- Twitter: [Paulo Pessoa](https://twitter.com/PauloPe65041263)
+- Behance: [Paulo Pessoa](https://www.behance.net/mr-cerebro)
+- Dribble: [Paulo Pessoa](https://dribbble.com/mr-cerebro)
+- Facebook: [Paulo Pessoa](https://www.facebook.com/paulo1pessoa)
+- Instagram: [Paulo Pessoa](https://www.instagram.com/_mrcerebro/)
+- Linkedin: [Paulo Pessoa](https://www.linkedin.com/in/paulo-pessoa-2777841b2/)
+- Twitter: [Paulo Pessoa](https://twitter.com/PauloPe65041263)
 
 <div align="center">
 
@@ -78,7 +84,11 @@ Here are some ideas about me to get you started:
 
 </div>
 
+<div align="center">
+	
 I was challenged by a team to create the frontend of a Virtual Store (E-commerce)
+
+</div>
 
 ## Challenge objective
 
@@ -113,6 +123,6 @@ All without frameworks or libraries, just the technologies: ***HTML***, ***CSS (
 - Behance: [Paulo Pessoa](https://www.behance.net/mr-cerebro)
 - Dribble: [Paulo Pessoa](https://dribbble.com/mr-cerebro)
 - Facebook: [Paulo Pessoa](https://www.facebook.com/paulo1pessoa)
-  - Instagram: [Paulo Pessoa](https://www.instagram.com/_mrcerebro/)
-  - Linkedin: [Paulo Pessoa](https://www.linkedin.com/in/paulo-pessoa-2777841b2/)
-  - Twitter: [Paulo Pessoa](https://twitter.com/PauloPe65041263)
+- Instagram: [Paulo Pessoa](https://www.instagram.com/_mrcerebro/)
+- Linkedin: [Paulo Pessoa](https://www.linkedin.com/in/paulo-pessoa-2777841b2/)
+- Twitter: [Paulo Pessoa](https://twitter.com/PauloPe65041263)
