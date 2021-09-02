@@ -4,16 +4,18 @@
 
 </div>
 
+Aqui estão algumas idéias sobre mim para você começar:
+
+- 🌱 Atualmente estou estudando **(Javascript, ReactJS e TypeScript(*agendado*))**;
+- 👯 Estou procurando colaborar no desenvolvimento social e projetos open-source;
+- 🤔 Estou procurando ajuda para muitos projetos, tente entrar em contato comigo!:
+- 💬 Me pergunte sobre qualquer coisa **[Paulo Pessoa](mailto:mrcerebro8@gmail.com)**.
+
 <div align="center">
 	
 ## Projecto : REDSTORE - LOJA VIRTUAL (E-COMMERCE)
 
 </div>
-
-- 🌱 Atualmente estou estudando **(Javascript, ReactJS e TypeScript(*agendado*))**;
-- 👯 Estou procurando colaborar no desenvolvimento social e projetos open-source;
-- 🤔 Estou procurando ajuda para muitos projetos, tente entrar em contato comigo!:
-  - 💬 Me pergunte sobre qualquer coisa **[Paulo Pessoa](mailto:mrcerebro8@gmail.com)**.
 
 ![image-card](assets/img/image-card.jpg)
 
@@ -63,16 +65,18 @@ Tudo sem frameworks nem bibliotecas, apenas as tecnologias: ***HTML***, ***CSS (
 
 </div>
 
+Here are some ideas about me to get you started:
+
+- 🌱 I'm currently studying **(Javascript, ReactJS and TypeScript(*scheduled*))**;
+- 👯 I'm looking to collaborate on social development and open-source projects;
+- 🤔 I'm looking for help for many projects, try contacting me!:
+- 💬 Ask me about anything **[Paulo Pessoa](mailto:mrcerebro8@gmail.com)**.
+
 <div align="center">
 
 ## Project: REDSTORE - VIRTUAL STORE (E-COMMERCE)
 
 </div>
-
-- 🌱 I'm currently studying **(Javascript, ReactJS and TypeScript (*scheduled*))**;
-- 👯 I'm looking to collaborate on social development and open-source projects;
-- 🤔 I'm looking for help for many projects, try contacting me!:
-  - 💬 Ask me about anything **[Paulo Pessoa](mailto:mrcerebro8@gmail.com)**.
 
 I was challenged by a team to create the frontend of a Virtual Store (E-commerce)
 
